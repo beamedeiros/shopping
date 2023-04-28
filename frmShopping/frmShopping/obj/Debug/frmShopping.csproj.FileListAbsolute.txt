@@ -1,0 +1,85 @@
+C:\Users\Bea Medeiros\Downloads\SHOPPING\frmShopping\frmShopping\bin\Debug\frmShopping.exe.config
+C:\Users\Bea Medeiros\Downloads\SHOPPING\frmShopping\frmShopping\bin\Debug\frmShopping.exe
+C:\Users\Bea Medeiros\Downloads\SHOPPING\frmShopping\frmShopping\bin\Debug\frmShopping.pdb
+C:\Users\Bea Medeiros\Downloads\SHOPPING\frmShopping\frmShopping\obj\Debug\frmShopping.csprojAssemblyReference.cache
+C:\Users\Bea Medeiros\Downloads\SHOPPING\frmShopping\frmShopping\obj\Debug\frmShopping.Form1.resources
+C:\Users\Bea Medeiros\Downloads\SHOPPING\frmShopping\frmShopping\obj\Debug\frmShopping.Properties.Resources.resources
+C:\Users\Bea Medeiros\Downloads\SHOPPING\frmShopping\frmShopping\obj\Debug\frmShopping.csproj.GenerateResource.cache
+C:\Users\Bea Medeiros\Downloads\SHOPPING\frmShopping\frmShopping\obj\Debug\frmShopping.csproj.CoreCompileInputs.cache
+C:\Users\Bea Medeiros\Downloads\SHOPPING\frmShopping\frmShopping\obj\Debug\frmShopping.exe
+C:\Users\Bea Medeiros\Downloads\SHOPPING\frmShopping\frmShopping\obj\Debug\frmShopping.pdb
+C:\Users\Bea Medeiros\Downloads\SHOPPING\frmShopping\frmShopping\bin\Debug\mysql.data.dll
+C:\Users\Bea Medeiros\Downloads\SHOPPING\frmShopping\frmShopping\obj\Debug\frmShopping.frmTelaCadastrar.resources
+C:\Users\Bea Medeiros\Downloads\SHOPPING\frmShopping\frmShopping\obj\Debug\frmShopping.frmTelaPesquisa.resources
+C:\Users\Bea Medeiros\Downloads\SHOPPING\frmShopping\frmShopping\obj\Debug\frmShopping.csproj.CopyComplete
+C:\Users\Bea Medeiros\Downloads\SHOPPING\frmShopping\frmShopping\obj\Debug\frmShopping.frmTelaInicial.resources
+C:\Users\george\Desktop\frmShopping\frmShopping\frmShopping\bin\Debug\frmShopping.exe.config
+C:\Users\george\Desktop\frmShopping\frmShopping\frmShopping\bin\Debug\frmShopping.exe
+C:\Users\george\Desktop\frmShopping\frmShopping\frmShopping\bin\Debug\frmShopping.pdb
+C:\Users\george\Desktop\frmShopping\frmShopping\frmShopping\bin\Debug\DirectX.Capture.dll
+C:\Users\george\Desktop\frmShopping\frmShopping\frmShopping\bin\Debug\mysql.data.dll
+C:\Users\george\Desktop\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.csprojAssemblyReference.cache
+C:\Users\george\Desktop\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.frmTelaInicial.resources
+C:\Users\george\Desktop\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.frmTelaCadastrar.resources
+C:\Users\george\Desktop\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.frmTelaPesquisa.resources
+C:\Users\george\Desktop\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.Properties.Resources.resources
+C:\Users\george\Desktop\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.csproj.GenerateResource.cache
+C:\Users\george\Desktop\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.csproj.CoreCompileInputs.cache
+C:\Users\george\Desktop\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.csproj.CopyComplete
+C:\Users\george\Desktop\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.exe
+C:\Users\george\Desktop\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.pdb
+C:\Users\george\Desktop\frmShopping\frmShopping\frmShopping\bin\Debug\DShowNET.dll
+C:\Users\Bea Medeiros\Downloads\SHOPPING\frmShopping 2021_01_29\frmShopping\frmShopping\frmShopping\bin\Debug\frmShopping.exe.config
+C:\Users\Bea Medeiros\Downloads\SHOPPING\frmShopping 2021_01_29\frmShopping\frmShopping\frmShopping\bin\Debug\frmShopping.exe
+C:\Users\Bea Medeiros\Downloads\SHOPPING\frmShopping 2021_01_29\frmShopping\frmShopping\frmShopping\bin\Debug\frmShopping.pdb
+C:\Users\Bea Medeiros\Downloads\SHOPPING\frmShopping 2021_01_29\frmShopping\frmShopping\frmShopping\bin\Debug\DirectX.Capture.dll
+C:\Users\Bea Medeiros\Downloads\SHOPPING\frmShopping 2021_01_29\frmShopping\frmShopping\frmShopping\bin\Debug\DShowNET.dll
+C:\Users\Bea Medeiros\Downloads\SHOPPING\frmShopping 2021_01_29\frmShopping\frmShopping\frmShopping\bin\Debug\mysql.data.dll
+C:\Users\Bea Medeiros\Downloads\SHOPPING\frmShopping 2021_01_29\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.csprojAssemblyReference.cache
+C:\Users\Bea Medeiros\Downloads\SHOPPING\frmShopping 2021_01_29\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.frmTelaInicial.resources
+C:\Users\Bea Medeiros\Downloads\SHOPPING\frmShopping 2021_01_29\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.frmTelaCadastrar.resources
+C:\Users\Bea Medeiros\Downloads\SHOPPING\frmShopping 2021_01_29\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.frmTelaPesquisa.resources
+C:\Users\Bea Medeiros\Downloads\SHOPPING\frmShopping 2021_01_29\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.Properties.Resources.resources
+C:\Users\Bea Medeiros\Downloads\SHOPPING\frmShopping 2021_01_29\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.csproj.GenerateResource.cache
+C:\Users\Bea Medeiros\Downloads\SHOPPING\frmShopping 2021_01_29\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.csproj.CoreCompileInputs.cache
+C:\Users\Bea Medeiros\Downloads\SHOPPING\frmShopping 2021_01_29\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.csproj.CopyComplete
+C:\Users\Bea Medeiros\Downloads\SHOPPING\frmShopping 2021_01_29\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.exe
+C:\Users\Bea Medeiros\Downloads\SHOPPING\frmShopping 2021_01_29\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.pdb
+C:\Users\Bea Medeiros\Downloads\SHOPPING\frmShopping 2021_01_29\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.frmCadastroLoja.resources
+C:\Users\george\Desktop\frmShopping_2021_01_29\frmShopping 2021_01_29\frmShopping\frmShopping\frmShopping\bin\Debug\frmShopping.exe.config
+C:\Users\george\Desktop\frmShopping_2021_01_29\frmShopping 2021_01_29\frmShopping\frmShopping\frmShopping\bin\Debug\frmShopping.exe
+C:\Users\george\Desktop\frmShopping_2021_01_29\frmShopping 2021_01_29\frmShopping\frmShopping\frmShopping\bin\Debug\frmShopping.pdb
+C:\Users\george\Desktop\frmShopping_2021_01_29\frmShopping 2021_01_29\frmShopping\frmShopping\frmShopping\bin\Debug\DirectX.Capture.dll
+C:\Users\george\Desktop\frmShopping_2021_01_29\frmShopping 2021_01_29\frmShopping\frmShopping\frmShopping\bin\Debug\DShowNET.dll
+C:\Users\george\Desktop\frmShopping_2021_01_29\frmShopping 2021_01_29\frmShopping\frmShopping\frmShopping\bin\Debug\mysql.data.dll
+C:\Users\george\Desktop\frmShopping_2021_01_29\frmShopping 2021_01_29\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.csprojAssemblyReference.cache
+C:\Users\george\Desktop\frmShopping_2021_01_29\frmShopping 2021_01_29\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.frmCadastroLoja.resources
+C:\Users\george\Desktop\frmShopping_2021_01_29\frmShopping 2021_01_29\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.frmCodigoBarras.resources
+C:\Users\george\Desktop\frmShopping_2021_01_29\frmShopping 2021_01_29\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.frmTelaInicial.resources
+C:\Users\george\Desktop\frmShopping_2021_01_29\frmShopping 2021_01_29\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.frmTelaCadastrar.resources
+C:\Users\george\Desktop\frmShopping_2021_01_29\frmShopping 2021_01_29\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.frmTelaPesquisa.resources
+C:\Users\george\Desktop\frmShopping_2021_01_29\frmShopping 2021_01_29\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.Properties.Resources.resources
+C:\Users\george\Desktop\frmShopping_2021_01_29\frmShopping 2021_01_29\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.csproj.GenerateResource.cache
+C:\Users\george\Desktop\frmShopping_2021_01_29\frmShopping 2021_01_29\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.csproj.CoreCompileInputs.cache
+C:\Users\george\Desktop\frmShopping_2021_01_29\frmShopping 2021_01_29\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.csproj.CopyComplete
+C:\Users\george\Desktop\frmShopping_2021_01_29\frmShopping 2021_01_29\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.exe
+C:\Users\george\Desktop\frmShopping_2021_01_29\frmShopping 2021_01_29\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.pdb
+C:\Users\beatriz.santos\OneDrive - Volaris Group\Documentos\frmShopping\frmShopping\frmShopping\bin\Debug\frmShopping.exe.config
+C:\Users\beatriz.santos\OneDrive - Volaris Group\Documentos\frmShopping\frmShopping\frmShopping\bin\Debug\frmShopping.exe
+C:\Users\beatriz.santos\OneDrive - Volaris Group\Documentos\frmShopping\frmShopping\frmShopping\bin\Debug\frmShopping.pdb
+C:\Users\beatriz.santos\OneDrive - Volaris Group\Documentos\frmShopping\frmShopping\frmShopping\bin\Debug\DirectX.Capture.dll
+C:\Users\beatriz.santos\OneDrive - Volaris Group\Documentos\frmShopping\frmShopping\frmShopping\bin\Debug\DShowNET.dll
+C:\Users\beatriz.santos\OneDrive - Volaris Group\Documentos\frmShopping\frmShopping\frmShopping\bin\Debug\mysql.data.dll
+C:\Users\beatriz.santos\OneDrive - Volaris Group\Documentos\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.csproj.AssemblyReference.cache
+C:\Users\beatriz.santos\OneDrive - Volaris Group\Documentos\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.csproj.SuggestedBindingRedirects.cache
+C:\Users\beatriz.santos\OneDrive - Volaris Group\Documentos\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.frmCadastroLoja.resources
+C:\Users\beatriz.santos\OneDrive - Volaris Group\Documentos\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.frmCodigoBarras.resources
+C:\Users\beatriz.santos\OneDrive - Volaris Group\Documentos\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.frmTelaInicial.resources
+C:\Users\beatriz.santos\OneDrive - Volaris Group\Documentos\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.frmTelaCadastrar.resources
+C:\Users\beatriz.santos\OneDrive - Volaris Group\Documentos\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.frmTelaPesquisa.resources
+C:\Users\beatriz.santos\OneDrive - Volaris Group\Documentos\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.Properties.Resources.resources
+C:\Users\beatriz.santos\OneDrive - Volaris Group\Documentos\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.csproj.GenerateResource.cache
+C:\Users\beatriz.santos\OneDrive - Volaris Group\Documentos\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.csproj.CoreCompileInputs.cache
+C:\Users\beatriz.santos\OneDrive - Volaris Group\Documentos\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.csproj.CopyComplete
+C:\Users\beatriz.santos\OneDrive - Volaris Group\Documentos\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.exe
+C:\Users\beatriz.santos\OneDrive - Volaris Group\Documentos\frmShopping\frmShopping\frmShopping\obj\Debug\frmShopping.pdb
